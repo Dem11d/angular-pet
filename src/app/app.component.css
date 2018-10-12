@@ -1,0 +1,19 @@
+.wrapper{
+  margin: 0 auto;
+  max-width: 1920px;
+  width: 100%
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+}
+
+nav a{
+  margin: 1em;
+  padding: 0.4em 1em;
+  text-decoration: none;
+  color: black;
+  background-color: #cec6c6;
+  border-radius: 5px;
+}
